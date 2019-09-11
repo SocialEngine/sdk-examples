@@ -7,6 +7,7 @@ Here we provide some API examples based on articles written for our [documentati
 Depending on your language of choice, make sure to rename the config file in `/examples/_config/[LANGUAGE]/config.*.example` by removing the `.example`.
 
 Then fill out the required constants/variables:
+
 | Constant/Variable | Description                                                                                    |
 |-------------------|------------------------------------------------------------------------------------------------|
 | SE_URL            | URL to your Unite site.                                                                        |
