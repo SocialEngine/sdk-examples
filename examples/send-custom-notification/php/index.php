@@ -1,6 +1,6 @@
 <?php
 
-require(__DIR__ . '/../config.php');
+require(__DIR__ . '/../../_config/php/config.php');
 
 /**
  * @param $userId int This is the user we plan to notify so we must act as them to create the post.
