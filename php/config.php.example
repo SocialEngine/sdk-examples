@@ -1,0 +1,7 @@
+<?php
+
+define('SE_URL', '');
+
+define('SE_TOKEN', '');
+
+define('SE_VIEWER_TOKEN', '');
